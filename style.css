@@ -422,6 +422,7 @@ input{
 }
 
 
+
 @media screen and (max-width:1495px) {
 
     .container-1{
@@ -533,6 +534,10 @@ input{
         height: 30px;
         margin-left: 5rem;
         margin-top: 2rem;
+    }
+
+    #aakash{
+        display: block;
     }
 }
 
